@@ -1,0 +1,7 @@
+node_modules
+.next
+*.tsbuildinfo
+data/runtime.json
+.env*
+!.env.example
+*.log
