@@ -103,3 +103,11 @@ npm run build
 ## License and provenance
 
 The port is based on Rank Math SEO 1.0.275, licensed under GPL-3.0. See `NOTICE.md`. No Rank Math trademark ownership or official endorsement is claimed.
+
+## Creator and maintenance
+
+This independent Next.js port is maintained by [Sammy The Femboy Puppy](https://akasammythepuppy.me/) ([@foulfoxhacks](https://github.com/foulfoxhacks)). Original Rank Math attribution and license information remain in `NOTICE.md`.
+
+Explore more web development and technical SEO projects in [Sammy's creator portfolio](https://akasammythepuppy.me/work/).
+
+For issues with this port, [open an issue](https://github.com/foulfoxhacks/Rank-Math-for-NextJS/issues) or contribute a pull request in this repository.
